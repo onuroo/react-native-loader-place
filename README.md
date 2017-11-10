@@ -8,7 +8,15 @@ Loader Place for React Native Projects
 ```sh
 $ npm install react-native-loader-place --save
 ```
+## Demo
 
+<table>
+<tr><td>
+<img src="./demo/gif" width="300"></td><td>
+</tr>
+</table>
+
+Can use when you need to show something on screen before data loaded.
 ## Usage
 
 ```javascript
