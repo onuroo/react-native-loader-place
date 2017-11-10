@@ -1,7 +1,7 @@
 
 Loader Place for React Native Projects
 
-![screenshot](https://github.com/melihmucuk/rn-date-range/blob/master/ss.png?raw=true)
+
 
 ## Installation
 
