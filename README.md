@@ -12,7 +12,7 @@ $ npm install react-native-loader-place --save
 
 <table>
 <tr>
-<img src="./demo.gif" width="300"></td><td>
+<img src="./demo.gif" width="300">
 </tr>
 </table>
 
