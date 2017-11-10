@@ -1,0 +1,27 @@
+{
+  "name": "react-native-loader-place",
+  "version": "1.0.0",
+  "description": "Place loader for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onuroo/react-native-loader-place.git"
+  },
+  "keywords": [
+    "Place",
+    "Loader",
+    "Loading",
+    "React",
+    "Native",
+    "React"
+  ],
+  "author": "Onur Orhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onuroo/react-native-loader-place/issues"
+  },
+  "homepage": "https://github.com/onuroo/react-native-loader-place#readme"
+}
