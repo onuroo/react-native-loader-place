@@ -70,8 +70,8 @@ All properties are optional
 |**`height`**|Number|15|used to specify the height of the rectangle|
 |**`width`**|Number|70|used to specify the width of the rectangle|
 |**`duration`**|Number|900|transition speed of animation|
-|**`backgroundColor`**|blue|String|for a faint color on the background|
-|**`animationColor`**|blue|String|the color of the animation that will pass above the background|
+|**`backgroundColor`**|String|blue|for a faint color on the background|
+|**`animationColor`**|String|blue|the color of the animation that will pass above the background|
 |**`style`**|Object| justifyContent:'center', alignItems:'center' |style of the Rectangle Loader|
 |**`loaded`**|Boolean|true|if loaded is true that will be enable loading animation|
 
@@ -83,8 +83,8 @@ All properties are optional
 |---|---|---|---|
 |**`radius`**|Number|30|used to specify the size of the circle, if radius is 20, size of circle 40x40 as width and height|
 |**`duration`**|Number|900|transition speed of animation|
-|**`backgroundColor`**|blue|Number|for a faint color on the background|
-|**`animationColor`**|blue|Number|the color of the animation that will pass above the background|
+|**`backgroundColor`**|String|blue|for a faint color on the background|
+|**`animationColor`**|String|blue|the color of the animation that will pass above the background|
 |**`style`**|Object| justifyContent:'center', alignItems:'center' |style of the Circle Loader|
 |**`loaded`**|Boolean|true|if loaded is true that will be enable loading animation|
 
