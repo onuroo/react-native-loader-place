@@ -38,9 +38,9 @@ export default class LoaderPlace extends Component {
             width={50}
             loaded={false}
             duration={900}
-            backgroundColor: 'blue',
-            animationColor: 'blue',
-            style: {{ padding: 10}}>
+            backgroundColor = 'blue',
+            animationColor = 'blue',
+            style = {{ padding: 10}}>
 
             <Text>Onur Orhan</Text>
 
