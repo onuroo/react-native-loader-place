@@ -73,7 +73,7 @@ All properties are optional
 |**`backgroundColor`**|String|blue|for a faint color on the background|
 |**`animationColor`**|String|blue|the color of the animation that will pass above the background|
 |**`style`**|Object| justifyContent:'center', alignItems:'center' |style of the Rectangle Loader|
-|**`loaded`**|Boolean|true|if loaded is true that will be enable loading animation|
+|**`loaded`**|Boolean|true|if loaded is false that will be enable loading animation|
 
 ## Props for Circle
 
@@ -86,7 +86,7 @@ All properties are optional
 |**`backgroundColor`**|String|blue|for a faint color on the background|
 |**`animationColor`**|String|blue|the color of the animation that will pass above the background|
 |**`style`**|Object| justifyContent:'center', alignItems:'center' |style of the Circle Loader|
-|**`loaded`**|Boolean|true|if loaded is true that will be enable loading animation|
+|**`loaded`**|Boolean|true|if loaded is false that will be enable loading animation|
 
 ## Support
 
